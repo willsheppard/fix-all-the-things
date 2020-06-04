@@ -1,11 +1,9 @@
 # fix-all-the-things
 
-A blue-sky thinker imagines how to make the world better using software
+Making the world better through software.
 
-Join me on a journey through time and space as I come up with ideas that are so crazy they might actually work.
+Come with us now on a journey through time and space to concieve of ideas that are so crazy they might actually work.
 
-Marvel at my astounding mental feats.
+Think some thoughts, invent your own ideas, and comment on existing ones.
 
-Collaborate by picking holes in my ideas, and mentioning existing projects that might fit the bill.
-
-Go to the issues to get started.
+[Go to the issues to get started](https://github.com/willsheppard/fix-all-the-things/issues).
